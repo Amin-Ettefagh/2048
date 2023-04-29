@@ -1,3 +1,3 @@
 # 2048
 
-Demo :
+Demo : https://amin-ettefagh.github.io/2048/
